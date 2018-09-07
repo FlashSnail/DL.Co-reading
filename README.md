@@ -1,6 +1,5 @@
 README
 ==========
-***
 # You can get some useful Deep Learning study materials from this repository
 
 - CNN: A book of CNN, let you easy to understand CNN
