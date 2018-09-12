@@ -1,9 +1,9 @@
-#DeepLearning-MIT —— Ian Goodfellow et.
+# DeepLearning-MIT —— Ian Goodfellow et.
 
-#Website
+# Website
 
 You can get this book of web from url
--http://www.deeplearningbook.org/
+- http://www.deeplearningbook.org/
 
 **OR, you can download this book of different version from this repo**
 
